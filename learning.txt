@@ -1,0 +1,1 @@
+Since i started the SE 102 Course. I have learned how to navigate through GitHub and how to create a respositrory on GitHub. i have also learned how to create and merge on GitHub,learned certain commands, and currently learned how to clone my respository on my local machine.
